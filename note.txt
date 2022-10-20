@@ -1,0 +1,1 @@
+https://tabist.page.link/?ibi=com.tabist.booking&isi=1621250313&apn=com.tabist.booking&link=$%7Bwindow.location.origin%7D/b/$%7BhotelId%7D/confirmation&screen_name=BookingCompletedScreen&tracking_id=$%7BtrackingId%7D&_imcp=1
